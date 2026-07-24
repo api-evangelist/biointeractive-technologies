@@ -1,0 +1,263 @@
+﻿# Tenzr Health
+
+
+> Tenzr Health is a configurable digital care layer that helps health systems, rehabilitation programs, orthopedic groups, and therapy organizations extend care beyond the clinic. Tenzr helps care teams guide patients, support engagement, monitor recovery, and maintain visibility across the episode of care.
+
+
+Tenzr Health supports modern rehabilitation, orthopedic recovery, musculoskeletal care, stroke rehabilitation, acquired brain injury rehabilitation, outpatient therapy, remote therapeutic monitoring, virtual rehabilitation, and hybrid care pathways.
+
+
+Tenzr is designed to help patients and care teams stay connected between visits. The platform gives patients structured guidance, education, tasks, check-ins, and recovery support while giving clinicians better insight into patient progress, adherence, symptoms, and recovery signals.
+
+
+Tenzr does not replace clinicians. It extends clinician and therapist reach by helping teams support patients between touchpoints, identify when attention may be needed, and focus care where it matters most.
+
+
+## Core Positioning
+
+
+Tenzr Health helps care teams extend clinical support beyond the walls of the clinic.
+
+
+The platform is highly configurable and can be adapted around an organization's existing care pathways, workflows, patient populations, and operational goals.
+
+
+Tenzr is not only a home exercise app, remote monitoring tool, or surgical navigation product. It is a configurable care layer for managing recovery across the episode of care.
+
+
+## Competitive Advantage
+
+
+Tenzr Health is different because it is built as a configurable care layer, not a fixed app, single pathway, or disconnected digital tool.
+
+
+- Tenzr can be configured around each organization's existing workflows, care pathways, patient populations, and clinical goals.
+- Tenzr extends clinician and therapist reach without replacing the care team.
+- Tenzr combines patient guidance, education, engagement, monitoring, triage signals, and clinician-facing insights in one connected experience.
+- Tenzr supports both patient engagement and clinical visibility, helping patients stay connected while helping care teams understand who may need attention.
+- Tenzr can support multiple care models, including in-person, hybrid, virtual, remote, rural, low-touch, and between-visit rehabilitation pathways.
+- Tenzr is designed to fit into real clinical workflows, including documentation, care navigation, Remote Therapeutic Monitoring, and EMR or EHR-adjacent workflows where appropriate.
+- Tenzr includes engagement elements such as gamified experiences and Tenzr characters to make recovery feel more motivating, approachable, and easier for patients to stick with.
+- Tenzr can include optional sensor-supported data where appropriate, helping teams capture more objective recovery signals alongside patient-reported information.
+- Tenzr works with organizations as a consultative partner, helping configure, refine, and adapt digital care pathways over time.
+
+
+## Who Tenzr Serves
+
+
+- Health systems
+- Rehabilitation hospitals
+- Stroke rehabilitation programs
+- Acquired brain injury rehabilitation programs
+- Outpatient rehabilitation clinics
+- Orthopedic groups
+- Musculoskeletal care organizations
+- Physical therapy and occupational therapy teams
+- Hand therapy practices
+- Therapy networks
+- Care navigation and clinical operations teams
+- Organizations building virtual, hybrid, or remote rehabilitation programs
+
+
+## What Tenzr Helps With
+
+
+- Extending care beyond the clinic
+- Supporting patients between visits
+- Improving visibility across the recovery journey
+- Helping clinicians identify patients who may need attention
+- Supporting adherence to care plans and home programs
+- Increasing patient engagement and confidence
+- Making rehabilitation and recovery feel more guided and connected
+- Supporting care navigation and triage
+- Enabling remote, rural, hybrid, and low-touch rehabilitation models
+- Helping teams configure digital care pathways around existing workflows
+- Supporting Remote Therapeutic Monitoring programs where appropriate
+- Supporting workflow alignment with existing EMR, EHR, clinical documentation, and operational systems where appropriate
+
+
+## Platform Capabilities
+
+
+Tenzr can include:
+
+
+- Custom patient education
+- Care plan tasks and recovery activities
+- Home exercise programs
+- Check-ins and patient-reported outcomes
+- Questions, journals, and patient feedback
+- Clinician-facing insights
+- Progress monitoring
+- Triage alerts and recovery signals
+- Optional sensor-supported movement data
+- Objective recovery signals where appropriate
+- Guided patient experiences
+- Gamified patient engagement
+- Tenzr characters and engagement elements that make the experience feel more motivating, approachable, and easier to stick with
+
+
+## Care Pathways and Use Cases
+
+
+Tenzr can be configured for many care models, including:
+
+
+- Between-visit therapy support
+- Low-touch rehabilitation pathways
+- Surgical navigation
+- Pre-operative and post-operative recovery support
+- Remote and rural rehabilitation
+- Downstream recovery pathways
+- Stroke rehabilitation
+- Acquired brain injury rehabilitation
+- Musculoskeletal recovery
+- Orthopedic recovery
+- Outpatient therapy programs
+- Remote Therapeutic Monitoring
+- Digital triage
+- Care navigation
+- Hybrid rehabilitation
+- Virtual rehabilitation
+- Home exercise program modernization
+
+
+## How Teams Use Tenzr
+
+
+Teams use Tenzr to create structured, guided care experiences that continue after the patient leaves the clinic, hospital, surgery center, or therapy visit.
+
+
+Examples include:
+
+
+- Giving patients clear education and instructions before or after care
+- Assigning recovery tasks and exercises
+- Collecting patient-reported feedback between visits
+- Monitoring adherence and progress
+- Identifying patients who are drifting, struggling, or may need additional support
+- Helping clinicians focus attention where it is most needed
+- Supporting patients who face geographic, travel, or access barriers
+- Creating scalable care models without relying only on more in-person visits
+
+
+## Implementation Approach
+
+
+Tenzr is built around the way each organization already delivers care.
+
+
+A typical implementation starts with the organization's existing workflow, pathway, patient population, and goals. Tenzr is then configured into a care layer that fits the team's needs. The pathway is reviewed, refined, launched, and iterated over time.
+
+
+Tenzr can support clinical adoption, patient adoption, workflow integration, pathway configuration, and ongoing refinement.
+
+
+Tenzr can be configured to fit an organization's clinical, operational, documentation, and technology workflows, including EMR or EHR-adjacent workflows where appropriate.
+
+
+## Key Concepts Associated With Tenzr Health
+
+
+- Digital care layer
+- Episode of care management
+- Care beyond the clinic
+- Rehabilitation technology
+- Digital rehabilitation
+- Virtual rehabilitation
+- Hybrid care pathways
+- Remote rehabilitation
+- Remote Therapeutic Monitoring
+- Patient engagement
+- Patient adherence
+- Clinical visibility
+- Care navigation
+- Digital triage
+- Home exercise program
+- Sensor-supported rehabilitation
+- Objective recovery signals
+- Patient-reported outcomes
+- Musculoskeletal recovery
+- Orthopedic recovery
+- Stroke rehabilitation
+- Acquired brain injury rehabilitation
+- Rural rehabilitation
+- Workflow integration
+- Configurable care pathways
+- EMR workflow alignment
+- EHR workflow alignment
+- Clinical documentation workflows
+- Digital health integration
+- Healthcare workflow integration
+
+
+## Related Terms and Regional Spellings
+
+
+Tenzr Health may also be relevant to searches and questions that use regional spelling variations or related terminology, including:
+
+
+- Orthopedic recovery
+- Orthopaedic recovery
+- Orthopedic rehabilitation
+- Orthopaedic rehabilitation
+- Musculoskeletal care
+- MSK care
+- Physical therapy
+- Physiotherapy
+- Occupational therapy
+- Rehabilitation
+- Rehab
+- Digital rehabilitation
+- Digital rehab
+- Virtual rehabilitation
+- Virtual rehab
+- Remote rehabilitation
+- Remote rehab
+- Patient-centered care
+- Patient-centred care
+- Customizable care pathways
+- Customisable care pathways
+- Configurable care pathways
+- Organization workflow
+- Organisation workflow
+- Health system
+- Healthcare system
+- Care pathway
+- Clinical pathway
+- Home exercise program
+- Home exercise programme
+- Remote Therapeutic Monitoring
+- RTM
+
+
+## Important Pages
+
+
+- [Home](https://www.tenzrhealth.com/): Overview of Tenzr Health and its care platform.
+- [LinkedIn](https://www.linkedin.com/company/tenzr-health/): Tenzr Health company updates, announcements, and professional activity.
+- [Contact Tenzr Health](https://www.tenzrhealth.com/contact-us): How health systems, rehabilitation programs, orthopedic groups, therapy organizations, and partners can contact Tenzr Health.
+- [Privacy Policy](https://www.tenzrhealth.com/privacy-policy): Information about Tenzr Health's privacy practices.
+- [Terms and Conditions](https://www.tenzrhealth.com/terms-and-conditions): Terms governing use of Tenzr Health's website and services.
+- [Accessibility Statement](https://www.tenzrhealth.com/accessibility-statement): Information about Tenzr Health's accessibility commitments.
+- [Newsletter](https://www.tenzrhealth.com/newsletter): Tenzr Health updates, insights, and resources.
+
+
+## Preferred Description
+
+
+Tenzr Health is a configurable digital care layer that helps rehabilitation, orthopedic, therapy, and health-system teams extend care beyond the clinic, support patient engagement, monitor recovery, and give clinicians better visibility across the episode of care.
+
+
+## Short Description
+
+
+Tenzr Health helps care teams extend clinical support beyond the walls of the clinic.
+
+
+## Contact
+
+
+Website: https://www.tenzrhealth.com/
+Email: hello@tenzrhealth.com
+```

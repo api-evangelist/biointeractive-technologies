@@ -1,8 +1,14 @@
 aid: biointeractive-technologies
 name: BioInteractive Technologies
-description: BioInteractive Technologies is a company surfaced as a portfolio company of techstars and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: BioInteractive Technologies operates Tenzr Health, a configurable digital
+  care layer that helps health systems, rehabilitation programs, orthopedic groups,
+  and therapy organizations extend care beyond the clinic. The platform gives patients
+  structured guidance, education, tasks, check-ins, and recovery support while giving
+  clinicians better visibility into patient progress, adherence, symptoms, and recovery
+  signals across the episode of care. Tenzr supports musculoskeletal, orthopedic,
+  and stroke rehabilitation, acquired brain injury recovery, outpatient therapy, Remote
+  Therapeutic Monitoring, and hybrid or virtual care pathways. The company does not
+  currently publish a public developer API or developer program.
 url: https://raw.githubusercontent.com/api-evangelist/biointeractive-technologies/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,11 +16,31 @@ x-backed-by:
 - techstars
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://framerusercontent.com/assets/xWiQPFWd9BYVyQ2zTPQjTxpYswo.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Health
+- Digital Health
+- Rehabilitation
+- Remote Therapeutic Monitoring
+- Patient Engagement
+- Musculoskeletal
+- Orthopedics
+- Telehealth
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +50,18 @@ maintainers:
 common:
 - type: Website
   url: https://tenzrhealth.com/
+- type: PrivacyPolicy
+  url: https://tenzrhealth.com/privacy-policy
+- type: TermsOfService
+  url: https://tenzrhealth.com/terms-and-conditions
+- type: Support
+  url: https://tenzrhealth.com/contact-us
+- type: LLMsTxt
+  url: llms/biointeractive-technologies-llms.txt
+- type: DomainSecurity
+  url: security/biointeractive-technologies-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
