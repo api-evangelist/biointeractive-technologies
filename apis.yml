@@ -41,7 +41,7 @@ accessModel:
 image: https://framerusercontent.com/assets/xWiQPFWd9BYVyQ2zTPQjTxpYswo.png
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-10-06'
 tags:
 - Company
 - Health
@@ -59,6 +59,8 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- url: https://tenzrhealth.com/blog
+  type: Blog
 - type: Website
   url: https://tenzrhealth.com/
 - type: PrivacyPolicy
